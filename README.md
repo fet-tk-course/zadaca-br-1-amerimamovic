@@ -10,7 +10,13 @@ Ime i prezime:Amer Imamovic
 GitHub username:amerimamovic
 
 ---
+## Student
 
+Ja sam Amer Imamovic 
+Studen sam na UNTZ na FET-u i trenutno sam 4. godina
+U slobodno vrijeme volim da treniram i druzim se sa kolegama 
+
+---
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:

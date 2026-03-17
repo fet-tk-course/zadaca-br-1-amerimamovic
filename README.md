@@ -1,15 +1,22 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime:Amer Imamovic
 
-GitHub username:
+GitHub username:amerimamovic
 
 ---
+## Student
 
+Ja sam Amer Imamovic 
+Studen sam na UNTZ na FET-u i trenutno sam 4. godina
+U slobodno vrijeme volim da treniram i druzim se sa kolegama 
+
+---
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
@@ -112,4 +119,5 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+
